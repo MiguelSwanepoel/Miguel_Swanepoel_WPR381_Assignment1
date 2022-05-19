@@ -1,1 +1,26 @@
+{
+  "name": "miguel_swanepoel_wpr381_assignment1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
   "keywords":[],
+  "author": "Miguel Swanepoel",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "omdbapi": "^3.0.0",
+    "readline-sync": "^1.4.10",
+    "spotify-web-api-node": "^5.0.2",
+    "twit": "^2.2.11"
+  }
+}
