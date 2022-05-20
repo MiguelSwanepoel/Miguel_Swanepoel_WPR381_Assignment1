@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/MiguelSwanepoel/Miguel_Swanepoel_WPR381_Assignment1.git"
   },
   "keywords":[],
   "author": "Miguel Swanepoel",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/MiguelSwanepoel/Miguel_Swanepoel_WPR381_Assignment1/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/MiguelSwanepoel/Miguel_Swanepoel_WPR381_Assignment1#readme",
   "dependencies": {
     "omdbapi": "^3.0.0",
     "readline-sync": "^1.4.10",
