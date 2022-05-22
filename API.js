@@ -12,7 +12,7 @@ const T = new TwitWebApi({  // create twitter object
 
 const spotifyApi = new SpotifyWebApi(); // create spotify object
 
-module.exports = {  // export all functions simultaneously
+module.exports = {  // export functions as one
     getTweets: function(userName){  // difine function to get tweets
         let params = {query: userName, count: 20} 
         
